@@ -1,5 +1,7 @@
 # 🦸 Desafio Felipão — Classificador de Nível de Herói
 
+🇧🇷 Português | [🇺🇸 English](README.en.md) | [🇪🇸 Español](README.es.md)
+
 Projeto desenvolvido como exercício de lógica de programação, inspirado no desafio **Classificador de Nível de Herói** da DIO.
 
 ## 🎯 Objetivo
