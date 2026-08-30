@@ -52,4 +52,13 @@ O Herói de nome Felipão está no nível de Ascendente
 
 ---
 
-👨‍💻 **Filipe Gimenes de Morais**
+👨‍💻 **Filipe G Morais**
+
+---
+
+## Author
+
+**Filipe G Morais**
+
+GitHub: https://github.com/sayjinblackbelt  
+Repository: https://github.com/sayjinblackbelt/desafio-felipao
