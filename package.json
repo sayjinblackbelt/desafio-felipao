@@ -1,0 +1,12 @@
+{
+  "name": "desafio-felipao",
+  "version": "1.0.0",
+  "description": "Classificador de nível de herói em JavaScript.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["javascript", "logica-de-programacao", "dio"],
+  "author": "Filipe Gimenes de Morais",
+  "license": "MIT"
+}
